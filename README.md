@@ -16,8 +16,7 @@ Establecer el WebHook
 - [x] RUC
 
 
-## Neto15
+## Neto
 
 [Telegram](https://telegram.me/Mateodioev)
 
-[Twitter](https://twitter.com/OreHur)
